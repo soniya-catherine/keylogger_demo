@@ -1,5 +1,5 @@
 # Keystroke Logging Tool
-A keyboard monitoring tool built using Python, and allows users to monitor their keyboard actions using a basic GUI
+A keyboard monitoring tool built using Python that allows users to monitor their keyboard actions using a basic GUI
 
 # Installation Guide 
 
